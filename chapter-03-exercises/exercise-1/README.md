@@ -15,3 +15,11 @@ If you haven't already, create your own version of this repository on GitHub by 
 1. Using your terminal, add and commit the changes that you've made to your repository.
 
 1. Push the changes to GitHub, and then view them in your web browser.
+# Favorite Foods
+⋅⋅* chips
+⋅⋅* hotpot
+⋅⋅* watermelon
+# What i ate for breakfast today? 
+⋅⋅* Hamburger
+⋅⋅* grapes
+⋅⋅* fries
