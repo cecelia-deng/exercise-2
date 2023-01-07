@@ -9,3 +9,7 @@ Now, using the text editor of your choice (e.g., Atom), open this file.
 1. Using your terminal, add and commit the changes that you've made to your repository.
 
 1. Push the changes to GitHub, and then view them in your web browser.
+# Favorite courses
+**10364** _ARCH150_ Anderson,Alex
+**22372** _ENGL288_ Kumler,David R
+**16055** _INFO201_ Walsh,Melanie
